@@ -5,3 +5,5 @@ A network simulation tool written in C language to demonstrate a network routing
 ## How to run it
 - ./netprjr seed filename
 - ./netprjw seed filename
+## Project status
+ It's no longer actively maintained.
