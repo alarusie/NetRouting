@@ -3,5 +3,5 @@ A network simulation tool written in C language to demonstrate a network routing
 ## Developers
 - Essa Imhmed
 ## How to run it
-- ./netprjr seed filename /* read a network configuration from a file */
-- ./netprjw seed filename /* Write a 
+- ./netprjr seed filename
+- ./netprjw seed filename
